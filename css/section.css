@@ -1,0 +1,33 @@
+.section {
+  padding: 15px;
+}
+
+.section--h1 {
+  text-align: center;
+}
+
+.section--paragraph {
+  font-size: 20px;
+  padding: 5px;
+}
+
+.section--bold{
+  font-weight: bold;
+}
+
+.section__button {
+  background-color: hsl(300, 100%, 40%);
+  border-style: none;
+  font-size: 14px;
+  padding: 8px;
+  margin: 5px;
+}
+
+.section__button:hover {
+  background-color: hsl(300, 100%, 50%);
+}
+
+.section__button--link {
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+}
