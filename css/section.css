@@ -31,3 +31,10 @@
   color: hsl(0, 0%, 100%);
   text-decoration: none;
 }
+
+.section--link {
+  text-decoration: none;
+  color: hsl(0, 0%, 100%);
+  text-decoration: none;
+  font-size: 20px;
+}
